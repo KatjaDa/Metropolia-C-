@@ -1,0 +1,10 @@
+using System;
+class example2_1
+{
+	public static void Main(string[] args) { 
+	Console.WriteLine("**********");
+	Console.WriteLine("*        *");
+	Console.WriteLine("*        *");
+	Console.WriteLine("**********");
+	}
+}
